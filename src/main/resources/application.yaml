@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    password: samsung
+    username: samsung
+    url: jdbc:mysql://localhost:3306/samsung
